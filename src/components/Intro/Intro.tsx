@@ -38,7 +38,7 @@ const Intro: FC = () => {
                         />
                     </Heading>
                     <HStack spacing={6}>
-                        {['🇲🇦', '🇲🇦'].map(c => (
+                        {['🇲🇦', '🇫🇷'].map(c => (
                             <Heading fontSize={'1.75rem'}>{c}</Heading>
                         ))}
                     </HStack>

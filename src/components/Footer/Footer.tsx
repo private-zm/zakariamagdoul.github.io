@@ -27,7 +27,7 @@ const Footer: FC = () => {
         >
             <Flex alignItems={'center'} px={2}>
                 <Text mr={2}>
-                    © {new Date().getFullYear()} Jason Wang – made with &nbsp;
+                    © {new Date().getFullYear()} Zakaria MAGDOUL – made with &nbsp;
                     <Icon as={FaHeart} fontSize={'0.65rem'} color={'#BF616A'} />
                     &nbsp; using ReactJS
                 </Text>

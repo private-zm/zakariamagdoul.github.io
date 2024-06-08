@@ -23,7 +23,7 @@ const Contact: FC = () => {
                     </Fade>
                     <Card maxW={'85vw'} w={'xl'} pb={8} overflow={'hidden'}>
                         <Flex textAlign={'center'}>
-                            <Container w='50%'>
+                            <Container w='30%'>
                                 <Link href='mailto:zakaria@magdoul.fr'>
                                     <Badge colorScheme='green'>Personal</Badge>
                                     <Text textDecoration={'underline'}>
@@ -32,7 +32,7 @@ const Contact: FC = () => {
                                 </Link>
                             </Container>
                             <Spacer />
-                            <Container w='50%'>
+                            <Container w='70%'>
                                 <Link href='mailto:Zakaria.Magdoul@etu.sorbonne-universite.fr'>
                                     <Badge colorScheme='orange'>Academic</Badge>
                                     <Text textDecoration={'underline'}>
