@@ -1,7 +1,7 @@
 {
-    "name": "jasonfyw.github.io",
+    "name": "zakariamagdoul.github.io",
     "version": "0.1.0",
-    "homepage": "https://jasonfyw.com",
+    "homepage": "https://magdoul.fr",
     "private": true,
     "dependencies": {
         "@chakra-ui/icons": "^2.0.9",

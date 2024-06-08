@@ -40,7 +40,7 @@ const About: FC = () => {
                                 <Flex>
                                     <Center p={4}>👋🏼</Center>
                                     <Text>
-                                        Hi, I'm Jason and I'm a third year co-op
+                                        Hi, I'm Zakaria and I'm a third year co-op
                                         student at the{' '}
                                         <b>University of Toronto</b> with a
                                         passion for <b>Software Engineering</b>{' '}
@@ -97,24 +97,7 @@ const About: FC = () => {
                                         In addition to Software Engineering, I
                                         am also interested in the confluence of
                                         artificial intelligence and cognitive
-                                        science, as well as photography! Check
-                                        out my&nbsp;
-                                        <Link
-                                            href='https://photo.jasonfyw.com'
-                                            isExternal
-                                            fontWeight={'semibold'}
-                                            borderBottom={
-                                                '2px solid rgb(154, 228, 217)'
-                                            }
-                                            transition={'0.2s'}
-                                            _hover={{
-                                                textDecor: 'none',
-                                                opacity: 0.9,
-                                            }}
-                                        >
-                                            photography portfolio to learn more
-                                            about my creative work.
-                                        </Link>
+                                        Science
                                     </Text>
                                 </Flex>
                             </Fade>
