@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c2db1ae.css",
-    "main.js": "/static/js/main.fc903d19.js",
-    "static/js/422.d5d74b90.chunk.js": "/static/js/422.d5d74b90.chunk.js",
-    "static/js/578.2774dbe3.chunk.js": "/static/js/578.2774dbe3.chunk.js",
-    "static/js/718.b6e7616c.chunk.js": "/static/js/718.b6e7616c.chunk.js",
-    "static/js/341.bfc2d01d.chunk.js": "/static/js/341.bfc2d01d.chunk.js",
-    "static/js/600.85a8e2bd.chunk.js": "/static/js/600.85a8e2bd.chunk.js",
-    "static/js/211.c6e7ea0e.chunk.js": "/static/js/211.c6e7ea0e.chunk.js",
-    "static/js/860.bd8e6296.chunk.js": "/static/js/860.bd8e6296.chunk.js",
-    "static/js/220.e4f2c4c5.chunk.js": "/static/js/220.e4f2c4c5.chunk.js",
-    "static/js/321.d349c7f1.chunk.js": "/static/js/321.d349c7f1.chunk.js",
+    "main.css": "/static/css/main.196f8d51.css",
+    "main.js": "/static/js/main.2f6fece5.js",
+    "static/js/422.1d6bba76.chunk.js": "/static/js/422.1d6bba76.chunk.js",
+    "static/js/578.37321ab0.chunk.js": "/static/js/578.37321ab0.chunk.js",
+    "static/js/718.efed1c39.chunk.js": "/static/js/718.efed1c39.chunk.js",
+    "static/js/341.3a7c7398.chunk.js": "/static/js/341.3a7c7398.chunk.js",
+    "static/js/600.2b3baaf0.chunk.js": "/static/js/600.2b3baaf0.chunk.js",
+    "static/js/211.2ca01731.chunk.js": "/static/js/211.2ca01731.chunk.js",
+    "static/js/860.3f661b0c.chunk.js": "/static/js/860.3f661b0c.chunk.js",
+    "static/js/220.33dc4ca1.chunk.js": "/static/js/220.33dc4ca1.chunk.js",
+    "static/js/321.79b1205a.chunk.js": "/static/js/321.79b1205a.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
@@ -82,11 +82,11 @@
     "static/media/petpal.md": "/static/media/petpal.71b9b91436188ad352a3.md",
     "static/media/linky.md": "/static/media/linky.f56455433636236fb7a2.md",
     "static/media/blogging-application.md": "/static/media/blogging-application.ae7383187bc07be9e5da.md",
-    "main.3c2db1ae.css.map": "/static/css/main.3c2db1ae.css.map",
-    "main.fc903d19.js.map": "/static/js/main.fc903d19.js.map"
+    "main.196f8d51.css.map": "/static/css/main.196f8d51.css.map",
+    "main.2f6fece5.js.map": "/static/js/main.2f6fece5.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c2db1ae.css",
-    "static/js/main.fc903d19.js"
+    "static/css/main.196f8d51.css",
+    "static/js/main.2f6fece5.js"
   ]
 }

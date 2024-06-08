@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjasonfyw_github_io=self.webpackChunkjasonfyw_github_io||[]).push([[578],{2578:function(e,s,i){e.exports=i.p+"static/media/fourier-series.bc4d29c2aa527ea7661c.md"}}]);

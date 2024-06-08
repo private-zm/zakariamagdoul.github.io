@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzakariamagdoul_github_io=self.webpackChunkzakariamagdoul_github_io||[]).push([[600],{1600:function(a,i,t){a.exports=t.p+"static/media/petpal.71b9b91436188ad352a3.md"}}]);
