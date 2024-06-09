@@ -19,7 +19,14 @@ import {
     SiCplusplus,
 
 } from 'react-icons/si'
-import { FaChartLine, FaCalculator , FaRobot} from 'react-icons/fa'; 
+import { FaChartLine, FaCalculator , FaPython, FaRobot  , FaMicroscope} from 'react-icons/fa'; 
+import { GiStairsGoal ,
+    GiPanda, 
+    GiDiceSixFacesSix,
+    GiHistogram,
+    GiWaveCrest,
+    GiSandsOfTime,
+} from 'react-icons/gi';
 import { Element } from 'react-scroll'
 import Fade from 'react-reveal/Fade'
 import SkillSection from './SkillSection'
@@ -50,21 +57,34 @@ const Skills: FC = () => {
                                 align={'flex-start'}
                             >
                                 <SkillSection title={'Languages'}>
-                                    <SkillItem icon={SiPython} name='Python' />
-                                   
-                                    
+                                    <SkillItem icon={GiPanda} name='Panda' />
+                                    <SkillItem icon={FaMicroscope} name='Scipy' />
+                                    <SkillItem icon={FaPython} name='Numpy' />
+                                    <SkillItem icon={FaRobot} name='Scikit-Learn' />
                                     <SkillItem icon={SiCplusplus} name='C++' />
                                     
                                 </SkillSection>
                                 <SkillSection title={'Hard Sciences'}>
-                                    <SkillItem icon={FaChartLine} name='Probability' />
+                                    <SkillItem icon={GiStairsGoal} name='Stochastic Calculus ' />
+                                    <SkillItem
+                                        icon={GiDiceSixFacesSix}
+                                        name='Advanced Probability'
+                                    />
+                                    <SkillItem
+                                        icon={GiHistogram}
+                                        name='Advanced Statistics'
+                                    />
+                                    <SkillItem
+                                        icon={GiWaveCrest}
+                                        name='PDEs'
+                                    />
                                     <SkillItem
                                         icon={FaRobot}
                                         name='Machine Learning'
                                     />
                                     <SkillItem
-                                        icon={FaCalculator}
-                                        name='Statistics'
+                                        icon={FaChartLine}
+                                        name='Time Series'
                                     />
                                 </SkillSection>
                             </Stack>

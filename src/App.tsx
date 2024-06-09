@@ -22,8 +22,10 @@ const App = () => {
         <header className="App-header">
           <h1>{t('welcome')}</h1>
           <p>{t('description')}</p>
-          <button onClick={() => changeLanguage('ar')}>العربية</button>
-          <button onClick={() => changeLanguage('es')}>Español</button>
+          <div style={{ marginTop: '10px' }}>
+              <button onClick={() => changeLanguage('ar')}>العربية</button>
+              <button onClick={() => changeLanguage('es')}>Francais</button>
+          </div>
         </header>
 
         <Routes>
