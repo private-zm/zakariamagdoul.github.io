@@ -19,12 +19,7 @@ const App = () => {
   return (
     <ChakraProvider theme={theme}>
       <div className="App">
-        <header className="App-header">
-          <h1>{t('welcome')}</h1>
-          <p>{t('description')}</p>
         
-        </header>
-
         <Routes>
           <Route index path="/" element={<Main />} />
           <Route path="/projects" element={<ProjectsPage />} />

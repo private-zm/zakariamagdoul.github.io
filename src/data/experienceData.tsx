@@ -38,7 +38,7 @@ export const experienceData: ExperienceData[] = [
         location: 'Paris, France ',
         dates: 'September 2023 - Present',
         description:
-            'Private courses in mathematics for students from high school senior year to Bachelor degree',
+            'Private courses in mathematics for students from high school senior year to Bachelor degree (Primarly Students of Classes Preparatoires MP)',
         logoSrc: Completude,
     },
 ]

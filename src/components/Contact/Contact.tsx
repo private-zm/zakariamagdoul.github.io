@@ -16,14 +16,14 @@ import Card from '../generics/Card'
 const Contact: FC = () => {
     return (
         <Element name='contact'>
-            <Container maxW={'8xl'} p={6.75} mt={10}>
+            <Container maxW={'9xl'} p={6.75} mt={10}>
                 <VStack spacing={8}>
                     <Fade>
                         <Heading as='h2'>Contact me</Heading>
                     </Fade>
                     <Card maxW={'85vw'} w={'xl'} pb={8} overflow={'hidden'}>
                         <Flex textAlign={'center'}>
-                            <Container w='40%'>
+                            <Container w='35%'>
                                 <Link href='mailto:zakaria@magdoul.fr'>
                                     <Badge colorScheme='green'>Personal</Badge>
                                     <Text textDecoration={'underline'}>
@@ -32,7 +32,7 @@ const Contact: FC = () => {
                                 </Link>
                             </Container>
                             <Spacer />
-                            <Container w='60%'>
+                            <Container w='65%'>
                                 <Link href='mailto:Zakaria.Magdoul@etu.sorbonne-universite.fr'>
                                     <Badge colorScheme='orange'>Academic</Badge>
                                     <Text textDecoration={'underline'}>
