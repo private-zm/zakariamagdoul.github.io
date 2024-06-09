@@ -65,8 +65,8 @@ const Skills: FC = () => {
                                     <SkillItem icon={SiCplusplus} name='C++' />
                                     
                                 </SkillSection>
-                                <SkillSection title={'Hard Sciences'}>
-                                    <SkillItem icon={GiStairsGoal} name='Stochastic Calculus ' />
+                                <SkillSection title={'Quantitative Sciences'}>
+                                    <SkillItem icon={FaChartLine} name='Stochastic Calculus ' />
                                     <SkillItem
                                         icon={GiDiceSixFacesSix}
                                         name='Advanced Probability'
@@ -76,7 +76,7 @@ const Skills: FC = () => {
                                         name='Advanced Statistics'
                                     />
                                     <SkillItem
-                                        icon={GiWaveCrest}
+                                        icon={FaCalculator}
                                         name='PDEs'
                                     />
                                     <SkillItem
@@ -123,7 +123,7 @@ const Skills: FC = () => {
                                 </SkillSection>
                             </Stack>
                         </Card>
-                    </Stack>
+                    </Stack> 
                 </VStack>
             </Container>
         </Element>
