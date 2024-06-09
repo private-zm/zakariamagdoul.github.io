@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3c2db1ae.css",
-    "main.js": "/static/js/main.ae2e7234.js",
+    "main.js": "/static/js/main.b08699fe.js",
     "static/js/422.1d6bba76.chunk.js": "/static/js/422.1d6bba76.chunk.js",
     "static/js/578.37321ab0.chunk.js": "/static/js/578.37321ab0.chunk.js",
     "static/js/718.efed1c39.chunk.js": "/static/js/718.efed1c39.chunk.js",
@@ -22,6 +22,7 @@
     "static/media/KaTeX_Math-BoldItalic.ttf": "/static/media/KaTeX_Math-BoldItalic.bf2d440b3a42ea78a998.ttf",
     "static/media/KaTeX_Main-Regular.woff": "/static/media/KaTeX_Main-Regular.4f35fbcc9ee8614c2bcc.woff",
     "static/media/KaTeX_Main-Bold.woff": "/static/media/KaTeX_Main-Bold.0c3b8929d377c0e9b2f3.woff",
+    "static/media/LorraineLogo.jpeg": "/static/media/LorraineLogo.18c1e703dffddf247f72.jpeg",
     "static/media/KaTeX_AMS-Regular.woff2": "/static/media/KaTeX_AMS-Regular.73ea273a72f4aca30ca5.woff2",
     "static/media/KaTeX_Typewriter-Regular.ttf": "/static/media/KaTeX_Typewriter-Regular.c5c02d763c89380dcb4e.ttf",
     "static/media/KaTeX_Main-Regular.woff2": "/static/media/KaTeX_Main-Regular.f650f111a3b890d116f1.woff2",
@@ -31,6 +32,7 @@
     "static/media/KaTeX_Main-Italic.woff": "/static/media/KaTeX_Main-Italic.fd947498bc16392e76c2.woff",
     "static/media/KaTeX_Fraktur-Bold.ttf": "/static/media/KaTeX_Fraktur-Bold.4c761b3711973ab04edf.ttf",
     "static/media/KaTeX_Fraktur-Regular.ttf": "/static/media/KaTeX_Fraktur-Regular.ed305b5434865e06ffde.ttf",
+    "static/media/bmceLogo.jpeg": "/static/media/bmceLogo.710c3be69ba73b7d4929.jpeg",
     "static/media/KaTeX_SansSerif-Regular.ttf": "/static/media/KaTeX_SansSerif-Regular.2f7bc363fc5424ebda59.ttf",
     "static/media/KaTeX_Main-BoldItalic.woff": "/static/media/KaTeX_Main-BoldItalic.428978dc7837d46de091.woff",
     "static/media/KaTeX_Math-Italic.woff": "/static/media/KaTeX_Math-Italic.96759856b4e70f3a8338.woff",
@@ -83,10 +85,10 @@
     "static/media/linky.md": "/static/media/linky.f56455433636236fb7a2.md",
     "static/media/blogging-application.md": "/static/media/blogging-application.ae7383187bc07be9e5da.md",
     "main.3c2db1ae.css.map": "/static/css/main.3c2db1ae.css.map",
-    "main.ae2e7234.js.map": "/static/js/main.ae2e7234.js.map"
+    "main.b08699fe.js.map": "/static/js/main.b08699fe.js.map"
   },
   "entrypoints": [
     "static/css/main.3c2db1ae.css",
-    "static/js/main.ae2e7234.js"
+    "static/js/main.b08699fe.js"
   ]
 }
