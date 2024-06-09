@@ -40,10 +40,10 @@ const About: FC = () => {
                                 <Flex>
                                     <Center p={4}>👋🏼</Center>
                                     <Text>
-                                        Hi, I'm Zakaria and I'm a third year co-op
+                                        Hi, I'm Zakaria and I'm a 
                                         student at the{' '}
-                                        <b>University of Toronto</b> with a
-                                        passion for <b>Software Engineering</b>{' '}
+                                        <b>To be determined</b> , <b>To be determined</b> and <b>To be determined</b>
+                                        with a passion for <b>Quantitative Research</b> , 
                                         and all things technology!
                                     </Text>
                                 </Flex>
@@ -52,26 +52,12 @@ const About: FC = () => {
                                 <Flex>
                                     <Center p={4}>🎓</Center>
                                     <Text>
-                                        I'm pursuing an HBSc with a{' '}
+                                        I'm pursuing two Masters degrees ,  The {' '}
                                         <b>
-                                            Specialist in Computer Science (ASIP
-                                            co-op)
+                                            MVA : Mathematiques, Vision, Apprentissage .
                                         </b>{' '}
-                                        and <b>Major in Cognitive Science</b>,
-                                        graduating class of 2026.
-                                    </Text>
-                                </Flex>
-                            </Fade>
-                            <Fade bottom cascade duration={500}>
-                                <Flex>
-                                    <Center p={4}>👨🏻‍💻</Center>
-                                    <Text>
-                                        Over the course of Summer 2023, I was a{' '}
-                                        <b>
-                                            Software Engineering Intern at
-                                            NerveX
-                                        </b>{' '}
-                                        working in full-stack development. I also have experience as a developer at various student organizations and startups.
+                                        and The <b> Probability and Finance ex DEA El Karoui</b>,
+                                        graduating class of 2025.
                                     </Text>
                                 </Flex>
                             </Fade>
@@ -79,14 +65,9 @@ const About: FC = () => {
                                 <Flex>
                                     <Center p={4}>🚀</Center>
                                     <Text>
-                                        I'm experienced in full-stack web
-                                        development - particularly with{' '}
-                                        <b>Typescript</b> and <b>Python</b>.{' '}
-                                        <b>ReactJS</b> is my frontend framework
-                                        of choice and I've worked in backend
-                                        with{' '}
-                                        <b>NodeJS, .NET Core, Java, Python,</b>{' '}
-                                        and <b>Golang</b>.
+                                        I'm experienced in Quantitative analysis , Capital modeling and research in Machine Learning .
+                                        <b>Python</b> is my language 
+                                        of choice .
                                     </Text>
                                 </Flex>
                             </Fade>
@@ -94,7 +75,7 @@ const About: FC = () => {
                                 <Flex>
                                     <Center p={4}>🧠</Center>
                                     <Text>
-                                        In addition to Software Engineering, I
+                                        In addition to Quantitative Finance, I
                                         am also interested in the confluence of
                                         artificial intelligence and cognitive
                                         Science
