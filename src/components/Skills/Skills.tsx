@@ -8,33 +8,18 @@ import {
     useColorModeValue,
 } from '@chakra-ui/react'
 import {
-    SiFlask,
-    SiHtml5,
-    SiJava,
-    SiPhp,
+
     SiPython,
-    SiReact,
-    SiTypescript,
-    SiBootstrap,
-    SiMysql,
-    SiMongodb,
+
     SiVisualstudiocode,
     SiGit,
     SiLatex,
-    SiDocker,
-    SiGo,
-    SiNodedotjs,
-    SiPostgresql,
-    SiC,
-    SiFirebase,
-    SiCsharp,
-    SiDotnet,
-    SiAmazonaws,
-    SiTailwindcss,
-    SiChakraui,
-    SiDjango,
-    SiPostman,
+
+
+    SiCplusplus,
+
 } from 'react-icons/si'
+import { FaChartLine, FaCalculator , FaRobot} from 'react-icons/fa'; 
 import { Element } from 'react-scroll'
 import Fade from 'react-reveal/Fade'
 import SkillSection from './SkillSection'
@@ -66,40 +51,20 @@ const Skills: FC = () => {
                             >
                                 <SkillSection title={'Languages'}>
                                     <SkillItem icon={SiPython} name='Python' />
-                                    <SkillItem
-                                        icon={SiTypescript}
-                                        name='Typescript'
-                                    />
-                                    <SkillItem icon={SiJava} name='Java' />
-                                    <SkillItem icon={SiPhp} name='PHP' />
-                                    <SkillItem icon={SiHtml5} name='HTML/CSS' />
-                                    <SkillItem icon={SiGo} name='Golang' />
-                                    <SkillItem icon={SiC} name='C' />
-                                    <SkillItem icon={SiCsharp} name='C#' />
+                                   
+                                    
+                                    <SkillItem icon={SiCplusplus} name='C++' />
+                                    
                                 </SkillSection>
-                                <SkillSection title={'Frameworks'}>
-                                    <SkillItem icon={SiReact} name='ReactJS' />
+                                <SkillSection title={'Hard Sciences'}>
+                                    <SkillItem icon={FaChartLine} name='Probability' />
                                     <SkillItem
-                                        icon={SiNodedotjs}
-                                        name='NodeJS'
+                                        icon={FaRobot}
+                                        name='Machine Learning'
                                     />
                                     <SkillItem
-                                        icon={SiDotnet}
-                                        name='.NET Core'
-                                    />
-                                    <SkillItem icon={SiFlask} name='Flask' />
-                                    <SkillItem icon={SiDjango} name='Django' />
-                                    <SkillItem
-                                        icon={SiChakraui}
-                                        name='ChakraUI'
-                                    />
-                                    <SkillItem
-                                        icon={SiBootstrap}
-                                        name='Bootstrap'
-                                    />
-                                    <SkillItem
-                                        icon={SiTailwindcss}
-                                        name='Tailwind CSS'
+                                        icon={FaCalculator}
+                                        name='Statistics'
                                     />
                                 </SkillSection>
                             </Stack>
@@ -118,34 +83,22 @@ const Skills: FC = () => {
                                 spacing={8}
                                 align={'flex-start'}
                             >
-                                <SkillSection title={'Databases'}>
-                                    <SkillItem icon={SiMysql} name='MySQL' />
-                                    <SkillItem
-                                        icon={SiPostgresql}
-                                        name='PostgreSQL'
-                                    />
-                                    <SkillItem
-                                        icon={SiMongodb}
-                                        name='MongoDB'
-                                    />
-                                    <SkillItem
-                                        icon={SiFirebase}
-                                        name='Firestore'
-                                    />
+                                <SkillSection title={'Languages'}>
+                                    🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Fluent
+                                    🇫🇷 French : Bilangual
+                                    🇲🇦 Arabic : Bilangual
+                                    🇯🇵 Japanese : Elementary
+
+                                   
                                 </SkillSection>
                                 <SkillSection title={'Other tools'}>
                                     <SkillItem icon={SiGit} name='Git' />
                                     <SkillItem icon={SiLatex} name='LaTeX' />
-                                    <SkillItem icon={SiDocker} name='Docker' />
                                     <SkillItem
                                         icon={SiVisualstudiocode}
                                         name='VS Code'
                                     />
-                                    <SkillItem icon={SiAmazonaws} name='AWS' />
-                                    <SkillItem
-                                        icon={SiPostman}
-                                        name='Postman'
-                                    />
+                                 
                                 </SkillSection>
                             </Stack>
                         </Card>
