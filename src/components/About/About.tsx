@@ -56,7 +56,7 @@ const About: FC = () => {
                                         <b>
                                             MVA : Mathematiques, Vision, Apprentissage .
                                         </b>{' '}
-                                        and The <b> Probability and Finance ex DEA El Karoui</b>,
+                                        and The <b> To Be Determined</b>,
                                         graduating class of 2025.
                                     </Text>
                                 </Flex>
