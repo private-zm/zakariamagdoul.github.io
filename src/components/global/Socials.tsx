@@ -1,6 +1,6 @@
 import { HStack, Link } from '@chakra-ui/react'
 import React, { FC } from 'react'
-import { FiLinkedin, FiGithub, FiMail } from 'react-icons/fi'
+import { FiLinkedin, FiGithub, FiMail , FiInstagram } from 'react-icons/fi'
 
 interface SocialsProps {
     color: string
@@ -14,11 +14,11 @@ const Socials: FC<SocialsProps> = props => {
             icon: <FiLinkedin />,
             href: 'https://linkedin.com/in/zakaria-magdoul/',
         },
-        {
-            aria: 'GitHub',
-            icon: <FiGithub />,
-            href: 'https://github.com/zakariamagdoul',
-        },
+        //{
+        //    aria: 'GitHub',
+        //    icon: <FiGithub />,
+        //    href: 'https://github.com/zakariamagdoul',
+        //},
         {
             aria: 'Email',
             icon: <FiMail />,

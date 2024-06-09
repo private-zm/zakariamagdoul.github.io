@@ -73,12 +73,10 @@ const About: FC = () => {
                             </Fade>
                             <Fade bottom cascade duration={500}>
                                 <Flex>
-                                    <Center p={4}>🧠</Center>
+                                    <Center p={4}>⚽</Center>
                                     <Text>
-                                        In addition to Quantitative Finance, I
-                                        am also interested in the confluence of
-                                        artificial intelligence and cognitive
-                                        Science
+                                        In addition to Quantitative Finance amd Machine Learning , I
+                                        have a big passion for football , and like music and Cinema.
                                     </Text>
                                 </Flex>
                             </Fade>

@@ -35,7 +35,7 @@ export const experienceData: ExperienceData[] = [
     {
         title: 'Mathematics Tutor',
         company: 'Completude',
-        location: 'Paris, France (',
+        location: 'Paris, France ',
         dates: 'September 2023 - Present',
         description:
             'Private courses in mathematics for students from high school senior year to Bachelor degree',
