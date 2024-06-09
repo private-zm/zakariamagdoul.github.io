@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzakariamagdoul_github_io=self.webpackChunkzakariamagdoul_github_io||[]).push([[718],{8718:function(a,i,u){a.exports=u.p+"static/media/linky.f56455433636236fb7a2.md"}}]);
