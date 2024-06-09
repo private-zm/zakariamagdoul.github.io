@@ -5,20 +5,26 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
-    font-family: Arial, sans-serif;
-}
-
-.container {
+    background-color: #f0f8ff;
+    font-family: 'Arial', sans-serif;
     text-align: center;
 }
 
-.message h1 {
-    font-size: 3em;
-    color: #333;
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
-.message p {
-    font-size: 1.5em;
-    color: #666;
+.equation {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.quote {
+    font-size: 1.2em;
+    color: #555;
+    max-width: 600px;
+    padding: 0 20px;
 }
