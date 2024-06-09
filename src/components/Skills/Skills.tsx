@@ -8,14 +8,14 @@ import {
     useColorModeValue,
 } from '@chakra-ui/react'
 import {
-
+    SiPandas,
     SiPython,
 
     SiVisualstudiocode,
     SiGit,
     SiLatex,
 
-
+    SiNumpy,
     SiCplusplus,
 
 } from 'react-icons/si'
@@ -57,9 +57,10 @@ const Skills: FC = () => {
                                 align={'flex-start'}
                             >
                                 <SkillSection title={'Languages'}>
-                                    <SkillItem icon={GiPanda} name='Panda' />
+                                    <SkillItem icon={SiPython} name='Python' />
+                                    <SkillItem icon={SiPandas} name='Panda' />
+                                    <SkillItem icon={SiNumpy} name='Numpy' />
                                     <SkillItem icon={FaMicroscope} name='Scipy' />
-                                    <SkillItem icon={FaPython} name='Numpy' />
                                     <SkillItem icon={FaRobot} name='Scikit-Learn' />
                                     <SkillItem icon={SiCplusplus} name='C++' />
                                     
