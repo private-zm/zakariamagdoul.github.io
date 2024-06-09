@@ -84,10 +84,10 @@ const Skills: FC = () => {
                                 align={'flex-start'}
                             >
                                 <SkillSection title={'Languages'}>
-                                    🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Fluent
-                                    🇫🇷 French : Bilangual
-                                    🇲🇦 Arabic : Bilangual
-                                    🇯🇵 Japanese : Elementary
+                                    🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Fluent <br />
+                                    🇫🇷 French : Bilangual <br />
+                                    🇲🇦 Arabic : Bilangual <br />
+                                    🇯🇵 Japanese : Elementary <br />
 
                                    
                                 </SkillSection>
