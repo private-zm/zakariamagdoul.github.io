@@ -58,7 +58,7 @@ const Skills: FC = () => {
                             >
                                 <SkillSection title={'Languages'}>
                                     <SkillItem icon={SiPython} name='Python' />
-                                    <SkillItem icon={SiPandas} name='Panda' />
+                                    <SkillItem icon={SiPandas} name='Pandas' />
                                     <SkillItem icon={SiNumpy} name='Numpy' />
                                     <SkillItem icon={FaMicroscope} name='Scipy' />
                                     <SkillItem icon={FaRobot} name='Scikit-Learn' />
