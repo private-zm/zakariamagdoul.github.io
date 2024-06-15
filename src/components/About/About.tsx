@@ -42,8 +42,8 @@ const About: FC = () => {
                                     <Text>
                                         Hi, I'm Zakaria and I'm a 
                                         student at the{' '}
-                                        <b>To be determined</b> , <b>To be determined</b> and <b>To be determined</b>
-                                        with a passion for <b>Quantitative Research</b> , 
+                                        <b>Sorbonne University</b> , <b>Ecole Polytechnique</b> and <b>Paris Saclay University</b>
+                                        with a passion for <b>Quantitative Finance</b> , 
                                         and all things technology!
                                     </Text>
                                 </Flex>
@@ -54,9 +54,9 @@ const About: FC = () => {
                                     <Text>
                                         I'm pursuing two Masters degrees ,  The {' '}
                                         <b>
-                                            MVA : Mathematiques, Vision, Apprentissage .
+                                            Probability and Finance (Ex DEA El Karoui) .
                                         </b>{' '}
-                                        and The <b> To Be Determined</b>,
+                                        and The <b> MVA : Mathematiques, Vision, Apprentissage</b>,
                                         graduating class of 2025.
                                     </Text>
                                 </Flex>

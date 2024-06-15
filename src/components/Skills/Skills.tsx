@@ -66,10 +66,10 @@ const Skills: FC = () => {
                                     <SkillItem icon={SiCplusplus} name='C++' />
                                 </SkillSection>
                                 <SkillSection title={'Quantitative Sciences'}>
-                                    <SkillItem icon={FaChartLine} name='Stochastic Calculus ' />
+                                    <SkillItem icon={FaChartLine} name='Stochastic Calculus' />
                                     <SkillItem
                                         icon={GiDiceSixFacesSix}
-                                        name='Advanced Probability'
+                                        name='Quant financial models'
                                     />
                                     <SkillItem
                                         icon={GiHistogram}
@@ -81,11 +81,11 @@ const Skills: FC = () => {
                                     />
                                     <SkillItem
                                         icon={FaRobot}
-                                        name='Machine Learning'
+                                        name='Statistical Learning'
                                     />
                                     <SkillItem
                                         icon={FaChartLine}
-                                        name='Time Series'
+                                        name='Econometrics'
                                     />
                                 </SkillSection>
                             </Stack>
