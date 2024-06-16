@@ -42,8 +42,7 @@ const About: FC = () => {
                                     <Text>
                                         Hi, I'm Zakaria and I'm a 
                                         student at the{' '}
-                                        <b>Sorbonne University</b> , <b>Ecole Polytechnique</b> and <b>Paris Saclay University</b>
-                                        with a passion for <b>Quantitative Finance</b> , 
+                                        <b>Sorbonne University</b> , <b>Ecole Polytechnique</b> and <b>ENS Paris Saclay </b> with a passion for <b>Quantitative Finance</b> , 
                                         and all things technology!
                                     </Text>
                                 </Flex>
