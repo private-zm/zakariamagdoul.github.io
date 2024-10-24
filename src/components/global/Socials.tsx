@@ -22,7 +22,7 @@ const Socials: FC<SocialsProps> = props => {
         {
             aria: 'Email',
             icon: <FiMail />,
-            href: 'mailto:zakaria@magdoul.com',
+            href: 'mailto:zakaria.magdoul@mines-nancy.org',
         },
     ]
     return (
