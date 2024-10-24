@@ -117,7 +117,7 @@ const ProjectContent = (props: ProjectContentProps) => {
                                         variant='outline'
                                     >
                                         {link.icon.type === FiGithub
-                                            ? 'View code'
+                                            ? 'View Demo'
                                             : 'Visit'}
                                     </Button>
                                 </LinkOverlay>

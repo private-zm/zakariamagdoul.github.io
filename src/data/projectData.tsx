@@ -22,7 +22,7 @@ export const projectData: ProjectT[] = [
         type: 'Web app',
         tagline:
             'An App that plots current Implied Volatility Surface for any Ticker',
-        tags: [<JavaBadge />],
+        tags: [<PythonBadge/>],
         imageSrc: '/implied_vol.jpg',
         description:
             'This app visualizes the implied volatility surface for stock options using real-time data from Yahoo Finance. It provides an interactive 3D plot to explore volatility based on strike prices and expiration dates.',
@@ -39,11 +39,11 @@ export const projectData: ProjectT[] = [
         id: 'trading bot',
         type: 'Web app',
         tagline:
-            'An bot that trades any ticker of your choosing using a sm strategy',
-        tags: [<JavaBadge />],
+            'A bot that trades any ticker of your choosing using a Simple Moving Average strategy',
+        tags: [<PythonBadge />],
         imageSrc: '/trading_bot.jpg',
         description:
-            '.',
+            'A momentum strategy trading bot , using market data from Vintage API ',
         links: [
             {
                 link: 'https://mytradinbot.streamlit.app',
