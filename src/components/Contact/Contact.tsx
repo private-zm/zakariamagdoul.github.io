@@ -27,7 +27,7 @@ const Contact: FC = () => {
                                 <Link href='mailto:zakaria@magdoul.fr'>
                                     <Badge colorScheme='green'>Personal</Badge>
                                     <Text textDecoration={'underline'}>
-                                        zakaria@magdoul.fr
+                                        magdoul.zakaria111@gmail.com
                                     </Text>
                                 </Link>
                             </Container>
@@ -36,7 +36,7 @@ const Contact: FC = () => {
                                 <Link href='mailto:Zakaria.Magdoul@etu.sorbonne-universite.fr'>
                                     <Badge colorScheme='orange'>Academic</Badge>
                                     <Text textDecoration={'underline'}>
-                                        Zakaria.Magdoul@etu.sorbonne-universite.fr
+                                        zakaria.magdoul@mines-nancy.org
                                     </Text>
                                 </Link>
                             </Container>

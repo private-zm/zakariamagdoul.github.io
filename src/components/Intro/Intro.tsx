@@ -50,7 +50,7 @@ const Intro: FC = () => {
                             textAlign='center'
                             letterSpacing={1.1}
                         >
-                            Quantitative Finance  @ Sorbonne University & Ecole Polytechnique  <br />
+                            Quantitative Finance  @ Ecole Polytechnique & Sorbonne University    <br />
                             Machine Learning @ ENS Paris Saclay 
                             
                         </Text>
