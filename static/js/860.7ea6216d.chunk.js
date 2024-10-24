@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzakariamagdoul_github_io=self.webpackChunkzakariamagdoul_github_io||[]).push([[860],{860:function(a,i,u){a.exports=u.p+"static/media/plismun.31d6cfe0d16ae931b73c.md"}}]);
