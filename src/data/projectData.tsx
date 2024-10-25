@@ -21,7 +21,7 @@ export const projectData: ProjectT[] = [
         id: 'volatility_surface',
         type: 'Web app',
         tagline:
-            'An App that plots current Implied Volatility Surface for any Ticker',
+            'A momentum strategy trading bot , using market data from Yahoo Finance',
         tags: [<PythonBadge/>],
         imageSrc: '/implied_vol.jpg',
         description:
@@ -43,7 +43,7 @@ export const projectData: ProjectT[] = [
         tags: [<PythonBadge />],
         imageSrc: '/trading_bot.jpg',
         description:
-            'A momentum strategy trading bot , using market data from Vintage API ',
+            'This app is a quantitative trading bot that uses real-time stock data from Yahoo Finance. It calculates multiple technical indicators such as moving averages, RSI, MACD, and Bollinger Bands to generate automated buy and sell signals. The bot provides an interactive dashboard to monitor stock performance, portfolio value, and trading activity, with real-time visualizations of market data and trades. ',
         links: [
             {
                 link: 'https://mytradinbot.streamlit.app',
