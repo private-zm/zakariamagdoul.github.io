@@ -37,11 +37,6 @@ const Intro: FC = () => {
                             cursor='_'
                         />
                     </Heading>
-                    <HStack spacing={6}>
-                        {['🇲🇦', '🇫🇷'].map(c => (
-                            <Heading fontSize={'1.75rem'}>{c}</Heading>
-                        ))}
-                    </HStack>
                     <Fade bottom cascade>
                         <Text
                             fontSize={'1.5rem'}
